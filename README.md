@@ -1,3 +1,7 @@
+Demo App
+===================
+### This is just a demo-app for a GitHub Pages React app deployment blog that I wrote on medium
+![blog](https://github.com/Yajassardana/demo-app/blob/master/blogimg.png)
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
